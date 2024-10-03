@@ -9,23 +9,6 @@ Toggle numbers and uppercase/lowercase letters.
 REST API endpoints for generating passwords.
 Basic user interface for interacting with the API.
 
-Project Structure
-The project is structured as follows:
-password-generator-spring-boot
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com.example.passwordgenerator
-│   │   │       ├── controllers
-│   │   │       ├── services
-│   │   │       └── PasswordGeneratorApplication.java
-│   │   └── resources
-│   │       ├── application.properties
-│   │       └── static
-│   └── test
-├── README.md
-├── pom.xml
-└── ...
 
 How to Run the Project
 Clone the repository:
